@@ -3,5 +3,5 @@
 
 > 参考网址：http://maven.apache.org/ref/3.5.4/maven-model/maven.html
 
-1. API详情注释请看 POMDOCAPI.md 文件 
+1. API详情注释请看 pomDocAPI 文件夹 
 2. 简单注释请查阅 pom.xml
