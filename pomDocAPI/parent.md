@@ -1,3 +1,7 @@
+```
+parent：
+所述父元素包含以定位父项目从该项目将继承所需的信息。 注意：此元素的子元素不是插值的，必须以文字值的形式给出。
+```
 <table border="0" class="table table-striped">
     <tbody>
     <tr align="left">
